@@ -1,1 +1,1 @@
-This is the project on Digital-Clock usimng Tkinter.
+This is the project on Digital-Clock using Tkinter.
